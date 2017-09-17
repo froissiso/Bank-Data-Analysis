@@ -1,0 +1,12 @@
+Average Income: 27936.0727166667
+INNER_CITY region max age: 67 RURAL region max age: 67 SUBURBAN region max age: 67 TOWN region max age: 67 
+INNER_CITY region min age: 18 RURAL region min age: 18 SUBURBAN region min age: 18 TOWN region min age: 19 
+#Females with mortgage: 100
+INNER_CITY region males with car & 1 child: 15
+RURAL region males with car & 1 child: 9
+SUBURBAN region males with car & 1 child: 3
+TOWN region males with car & 1 child: 7
+
+
+Cur dt=2017/02/24 13:14:50
+Programmed by Francisco Rois Siso
